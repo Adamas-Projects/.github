@@ -9,7 +9,7 @@
 <h1>Quem somos nós?</h1>
 
 <h3 align="justify">
-Somos estudantes incríveis(nós sabemos) que estamos desenvolvendo este sistema
+Somos estudantes cursando o último ano do curso técnico em DS que estamos desenvolvendo este sistema
 <li><a href="https://github.com/Felipe-Takayuki">Felipe Takayuki (Back-End)</a></li>
 <li><a href="https://github.com/Noobolon" >Eduardo Girão (Front-End)</a>
 </h3> 
